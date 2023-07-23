@@ -121,8 +121,7 @@ public class AnimalAtlas extends Application {
 
 
         //Group
-        //Group group = new Group();
-        //group.getChildren().add(label);
+        
 
 
 
