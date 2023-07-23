@@ -1,3 +1,3 @@
 # NowyProjektOkienkowy
-To jest Projekt Animal Atlas
+To jest projekt Animal Atlas
 Pozdrawiam
